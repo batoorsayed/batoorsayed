@@ -1,5 +1,6 @@
 ## Hi. I'm Batoor.
-I accidentally learn about stuff and code things. I just wanted to play Skyrim.
+I accidentally learn about stuff and code things. 
+... I just wanted to play Skyrim.
 
 ##
 - 💬 Ask me about **Skyrim**
