@@ -1,9 +1,10 @@
 ## Hi. I'm Batoor.
-I accidentally learn about stuff and code things. 
-... I just wanted to play Skyrim.
+I accidentally learn about stuff and code things. \
+... \
+I just wanted to play Skyrim, now I know how to do bunch of cool stuff.
 
 ##
-- 💬 Ask me about **Skyrim**
+- 💬 Ask me about how **Plan and manage an Azure AI solution** and **Skyrim** (Preferred)
 - 📫 How to reach me **github@batoors.com**
 - 📄 Know about my experiences [https://www.batoorsayed.com/resume/](https://www.batoorsayed.com/resume/)
 
@@ -47,6 +48,13 @@ I accidentally learn about stuff and code things.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+##
+
+#### Certifications
+
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/batoor/A30F3E5249120210?sharingId=9E57F3C1DC23108F) - Microsoft, 2025
+
 
 ##
 
