@@ -1,12 +1,12 @@
 ## Hi. I'm Batoor.
-I accidentally learn about stuff and code things. \
-... \
-I just wanted to play Skyrim, now I know how to do bunch of cool stuff.
+I code things and learn about cool stuff, usually by accident. \
+I just wanted to play Skyrim. \
+Now I know how to do bunch of really neat stuff. 
 
 ##
-- 💬 Ask me about how **Plan and manage an Azure AI solution** and **Skyrim** (Preferred)
-- 📫 How to reach me **github@batoors.com**
-- 📄 Know about my experiences [https://www.batoorsayed.com/resume/](https://www.batoorsayed.com/resume/)
+- 💬 Ask me about how to **Plan and manage an Azure AI solution** and **Skyrim** (Preferred)
+- 📫 How to reach me: **github@batoors.com**
+- 📄 Know about my experiences: [https://www.batoorsayed.com/resume/](https://www.batoorsayed.com/resume/)
 
 ##
 
