@@ -20,8 +20,6 @@ I just wanted to play Skyrim, now I know how to do bunch of cool stuff.
 #### Cloud & DevOps
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
