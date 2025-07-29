@@ -5,7 +5,7 @@ Now I know how to do bunch of really neat stuff.
 
 ##
 - 💬 Ask me about how to **Plan and manage an Azure AI solution** and **Skyrim** (Preferred)
-- 📫 How to reach me: **github@batoors.com**
+- 📫 How to reach me: **[https://www.batoorsayed.com/contact/](https://www.batoorsayed.com/contact/)**
 - 📄 Know about my experiences: [https://www.batoorsayed.com/resume/](https://www.batoorsayed.com/resume/)
 
 ##
